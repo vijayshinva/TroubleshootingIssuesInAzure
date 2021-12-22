@@ -1,5 +1,5 @@
 ## Scenario
-A new Web Application is being deployed. The deployment completes without and errors. But when browsing the Web Appllication we get an error message `:( Application Error` with HTTP Status code 503.
+An Azure Web App is failing with the error message `:( Application Error` and HTTP status code `503 - Service Unavailable`. We look at how to analyze the LogStream from the Azure Web App to understand the cause of the failure.
 
 ## Steps to setup this lab
 
